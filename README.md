@@ -1,4 +1,4 @@
-# Prime Tier 1 Week 2 - Part 1
+# EDA Tier 1 Week 2 - Part 1
 
 This week we introduced the programming language of the Internet, JavaScript. With JavaScript we can make our websites smart by adding interactivity and logic.
 
@@ -47,6 +47,6 @@ As you get to conditionals, sometimes there are multiple possibilities for how o
 Try changing variables a bit to see if the code still works!
 
 ### Assignment Submission
-Check in your repo, then turn in your work via the <a target="_blank" href="https://portal.primeacademy.io/#/student/assignments">Prime Academy Assignment Portal</a>, as usual and don't hesitate to hit up the Slack channel as needed!
+Check in your repo, then turn in your work via the <a target="_blank" href="https://portal.emergingacademy.org/#/student/assignments">EDA Assignment Portal</a>, as usual and don't hesitate to hit up the Slack channel as needed!
 
 **REMINDER**: Make sure to answer the Slack discussion question!
