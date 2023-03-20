@@ -1,15 +1,11 @@
-<<<<<<< HEAD
-# EDA Tier 1 Week 2 - Part 1
-=======
 # Unit 2, Part 1: JS Variables - About Me
->>>>>>> 650058454ea76e8e4f8d0d6640cc6af65d8d7c22
 
 This week we introduced the programming language of the Internet, JavaScript. With JavaScript we can make our websites smart by adding interactivity and logic.
 
 ## Topics Covered
-* Variables and Constants
-* Conditional statements
 
+- Variables and Constants
+- Conditional statements
 
 ## Assignment
 
@@ -21,36 +17,37 @@ Remember `console.log()` is your friend and you can use it in conjunction with t
 
 This assignment you'll be completing the scripts in the following files. But note, that we have different levels of difficulty.
 
-- [ ] *index.html* (You can put any questions you have in this file)
-- [ ] *aboutMe.js* (Required Features, Stretch Goals)
+- [ ] _index.html_ (You can put any questions you have in this file)
+- [ ] _aboutMe.js_ (Required Features, Stretch Goals)
 
 The aboutMe.js file contains comments with prompts on what code to write. Do not erase the comments, just write the code below each commented line.
 
-**NOTE:** The *aboutMe.js* file is already sourced into *index.html*. 
-
+**NOTE:** The _aboutMe.js_ file is already sourced into _index.html_.
 
 #### Levels of Difficulty
 
 Below is a brief explanation of:
 
-* what to expect when attempting each level
-* if they are required or not
+- what to expect when attempting each level
+- if they are required or not
 
-Level | Description
---- | ---
-Required Features | required
-Stretch Goals | optional, stretches your understanding and may require additional research
+| Level             | Description                                                                |
+| ----------------- | -------------------------------------------------------------------------- |
+| Required Features | required                                                                   |
+| Stretch Goals     | optional, stretches your understanding and may require additional research |
 
 ### Instructions
+
 Complete the `aboutMe.js` file.
 
-There are additional step by step instructions in the file -- please use `console.log` after every step to check your work! 
+There are additional step by step instructions in the file -- please use `console.log` after every step to check your work!
 Since some steps later in the file use results from earlier steps, you'll want to make sure things are right!
 
-As you get to conditionals, sometimes there are multiple possibilities for how our code could execute. 
+As you get to conditionals, sometimes there are multiple possibilities for how our code could execute.
 Try changing variables a bit to see if the code still works!
 
 ### Assignment Submission
+
 Check in your repo, then turn in your work via the <a target="_blank" href="https://portal.emergingacademy.org/#/student/assignments">EDA Assignment Portal</a>, as usual and don't hesitate to hit up the Slack channel as needed!
 
 **REMINDER**: Make sure to answer the Slack discussion question!
