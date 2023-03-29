@@ -95,4 +95,10 @@ switch(luckyNumber) {
 
 // 18 -- Rewrite question 13 with a `ternary` operator. You'll need to do research!
 
+let newAdventure = 
+
+adventurous === true ? "Adventures are great!" : "How about we stay home"
+
+console.log(newAdventure);  
+
 
